@@ -2,7 +2,7 @@
 - 👀 I’m interested in basically everything.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on (?)...
-- 📫 How to reach me (you know how) ...
+- 📫 How to reach me nikhilbasnet22@gmail.com
 
 <!---
 nikhilbasnet/nikhilbasnet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
